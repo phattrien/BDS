@@ -1,0 +1,25 @@
+﻿lienhe
+diachi
+tel
+gia
+dvt
+vitri
+dientich
+huong
+ghichu
+
+
+lienhe, diachi, tel, gia, dvt, vitri, dientich, huong, ghichu, 
+
+lienhe,diachi,tel,gia,huong,ghichu,
+t1.lienhe,t1.diachi,t1.tel,t1.gia,t1.huong,t1.ghichu,
+ 
+Báo lỗi khi xem chi tiết:
+Thông báo từ Hệ thống
+Nên chú ý Nên chú ý: Use of undefined constant NV_MAIN_DOMAIN - assumed 'NV_MAIN_DOMAIN' in file /modules/nhadat/funcs/detail.php on line 130
+
+Báo lỗi khi xem chuyên mục:
+
+Thông báo từ Hệ thống
+Nên chú ý Nên chú ý: get_headers() [function.get-headers]: Unable to find the wrapper "https" - did you forget to enable it when you configured PHP? in file /includes/class/geturl.class.php on line 114
+Lỗi cảnh báo Lỗi cảnh báo: get_headers() [function.get-headers]: This function may only be used against URLs. in file /includes/class/geturl.class.php on line 114
